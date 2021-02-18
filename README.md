@@ -2,4 +2,4 @@ Pogledaj projekat na sledecem linku
 
 
 
-[Simple React Tabs](https://romantic-lalande-d98002.netlify.app/)
+[Simple React Tabs](https://wizardly-bartik-e1a7b2.netlify.app/)
