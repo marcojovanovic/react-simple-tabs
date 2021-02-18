@@ -117,3 +117,7 @@ body {
 .btn:hover::before {
   opacity: 1;
 }
+
+.text-center{
+  text-align: center;
+}
